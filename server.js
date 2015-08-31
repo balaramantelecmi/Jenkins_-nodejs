@@ -8,7 +8,7 @@ var express=require('express'),
 
 
   app.get('/',function(req,res){
-    res.send('hello world  balaraman karthi');  });
+    res.send('hello world  balaraman karthy');  });
 
 
 
