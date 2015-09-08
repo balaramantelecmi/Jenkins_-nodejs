@@ -8,9 +8,9 @@ var express=require('express'),
 
 
   app.get('/',function(req,res){
-    res.send('hai ');  });
+    res.send('yes ');  });
 
 
 
 
- server.listen(12343);
+ server.listen(1234);
