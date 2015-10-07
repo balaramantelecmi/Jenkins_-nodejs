@@ -1,20 +1,18 @@
 {
-  "name": "Jenkins_-nodejs",
+  "name": "bala",
   "version": "1.0.0",
-  "description": "jenkins",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.13.3"
-  },
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/balaramantelecmi/Jenkins_-nodejs.git"
   },
+  "keywords": [
+    "12345"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
